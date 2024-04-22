@@ -4,3 +4,8 @@
     color: white;
     background-color: black;
 }
+
+.box {
+    border-radius: 12px;
+    background-color: darkgray;
+}
