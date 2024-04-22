@@ -8,4 +8,5 @@ body {
 .box {
     border-radius: 12px;
     background-color: darkgray;
+    padding: 0px;
 }
